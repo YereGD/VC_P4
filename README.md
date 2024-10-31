@@ -10,3 +10,5 @@ Para el seguimiento de objetos empleamos dos modelos uno existente para la detec
 
 
 ![Captura_desde_2024-10-31_11-18-23](https://github.com/user-attachments/assets/f468741f-6bb3-4c1f-a14b-35999d5efc07)
+
+![image](https://github.com/user-attachments/assets/f73d4a49-21dc-43bd-a3db-4395f4872e37)
