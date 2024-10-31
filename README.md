@@ -10,3 +10,4 @@ Para el seguimiento de objetos empleamos dos modelos uno existente para la detec
 
 
 
+![image](https://github.com/user-attachments/assets/4617579f-55f0-42a7-8bbd-78fc183ba7b2)
