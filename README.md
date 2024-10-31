@@ -9,5 +9,4 @@ Al dataset se ha aplicado un tratamiento para adaptarlo al formato que YOLO proc
 Para el seguimiento de objetos empleamos dos modelos uno existente para la detección de los coches y personas y otro entrenado para la detección de matriculas. Aplicamos el modelo existente con para 2 clases personas y coches. Una vez detectado el marco de un coche dentro de este marco (el area de la imagen donde está el coche) aplicamos el modelo de entrenado para la detección de mátriculas, una vez aplicado y obtenido el area de la mátricula Aplicamos el OCR para la lectura de las letras.
 
 
-
-![image](https://github.com/user-attachments/assets/4617579f-55f0-42a7-8bbd-78fc183ba7b2)
+![Captura_desde_2024-10-31_11-18-23](https://github.com/user-attachments/assets/f468741f-6bb3-4c1f-a14b-35999d5efc07)
