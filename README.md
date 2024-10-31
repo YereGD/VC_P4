@@ -4,6 +4,8 @@ El dataset Empleado:
 
 https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/data
 
+Detection result video: https://drive.google.com/file/d/1RDvLdopLDX2U8tVuvAztSvuW7hWRCX1M/view?usp=sharing
+
 Al dataset se ha aplicado un tratamiento para adaptarlo al formato que YOLO procesa para el entrenamiento de un modelo, para la detección de mátriculas.
 
 Para el seguimiento de objetos empleamos dos modelos uno existente para la detección de los coches y personas y otro entrenado para la detección de matriculas. Aplicamos el modelo existente con para 2 clases personas y coches. Una vez detectado el marco de un coche dentro de este marco (el area de la imagen donde está el coche) aplicamos el modelo de entrenado para la detección de mátriculas, una vez aplicado y obtenido el area de la mátricula, aplicamos el OCR para la lectura de las letras.
