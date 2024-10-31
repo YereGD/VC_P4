@@ -1,8 +1,8 @@
 # VC_P4
 
-El dataset Empleado se encuentra dentro de esté link:
+El dataset Empleado:
 
-https://drive.usercontent.google.com/download?id=1MDU3CP5dzjGVNTFoiTLUO-1amESQewtx&export=download&authuser=0
+https://www.kaggle.com/datasets/andrewmvd/car-plate-detection/data
 
 Al dataset se ha aplicado un tratamiento para adaptarlo al formato que YOLO procesa para el entrenamiento de un modelo, para la detección de mátriculas.
 
